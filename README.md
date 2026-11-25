@@ -32,3 +32,7 @@ An end-to-end empirical benchmark pipeline measuring the accuracy gap of LLMs ac
    .venv/bin/python -m src.build_notebook --scope pilot --model gemini-3.5-flash-lite
    .venv/bin/python -m jupyter nbconvert --to notebook --execute --inplace analysis_report.ipynb
    ```
+
+## Contributors
+- **Momin Ahmad** ([@Momin-Khannn](https://github.com/Momin-Khannn))
+- **Muhammad Shariq Annas** ([@Shariq-Annas](https://github.com/Shariq-Annas))
